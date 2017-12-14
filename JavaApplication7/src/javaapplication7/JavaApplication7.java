@@ -16,7 +16,7 @@ public class JavaApplication7 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int i ;
+        int x;
     }
     
 }
